@@ -1,0 +1,38 @@
+body{
+    background-image: url(./kepek/hatter.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#gomb
+{
+    background: gray;
+    text-align: center;
+    font-size: 50px;
+    
+}
+a:hover{
+    text-decoration: none;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+p{
+    background-color: gray;
+    text-align: justify;
+}
+.bekezdesek{
+    font-size: 20px;
+
+}
+img{
+    width: auto;
+}
+#fel{
+    background-color: gray;
+    font-size: 40px;
+    font-weight: bolder;
+    color: black;
+}
